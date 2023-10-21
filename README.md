@@ -1,8 +1,8 @@
-# Hi there! 👋
+### Hi there! 🧘🏻‍♀️
 
-I'm [Banaz Sinjary](https://github.com/banazsinjary), a Frontend Developer based in San Francisco 🌉. 
+I'm [Banaz Sinjary](https://github.com/banazsinjary), a Frontend Developer rooted in the world of web development. 🌍
 
-🔭 Exploring the digital frontier and crafting web magic.
+🌱 Nurturing digital experiences and exploring the web's endless possibilities, one line of code at a time.
 
 
 <!--
