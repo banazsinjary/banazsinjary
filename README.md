@@ -1,8 +1,10 @@
 ### Hi there! 🧘🏻‍♀️
 
-I'm [Banaz Sinjary](https://github.com/banazsinjary), a Frontend Developer rooted in the world of web development. 🌍
+I'm Banaz Sinjary, a Frontend Developer rooted in the world of web development. 🌍
 
 🌱 Nurturing digital experiences and exploring the web's endless possibilities, one line of code at a time.
+
+📧 You can reach me at [banazsinjary@gmail.com](mailto:banazsinjary@gmail.com).
 
 
 <!--
