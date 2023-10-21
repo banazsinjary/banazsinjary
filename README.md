@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there! 👋
+
+I'm [Banaz Sinjary](https://github.com/banazsinjary), a Frontend Developer based in San Francisco 🌉. 
+
+🔭 Exploring the digital frontier and crafting web magic.
+
 
 <!--
 **banazsinjary/banazsinjary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
