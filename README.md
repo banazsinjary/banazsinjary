@@ -1,6 +1,6 @@
 ### Hi there! 🧘🏻‍♀️
 
-I'm Banaz Sinjary, a Frontend Developer rooted in the world of web development. 🌍
+I'm Banaz Sinjary, a Frontend Developer turned Machine Learning student. 🌍
 
 🌱 Nurturing digital experiences and exploring the web's endless possibilities, one line of code at a time.
 
